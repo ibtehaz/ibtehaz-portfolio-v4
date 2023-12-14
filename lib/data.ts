@@ -34,13 +34,13 @@ export const links = [
 
 export const experiencesData = [
   {
-    title: "Front End Engineer Intern",
-    company: "GameStar+",
+    title: "Instructional Specialist",
+    company: "edX",
     location: "Los Angeles, CA",
     description:
-      "Collaborated in a dynamic tech team to integrate APIs and implement responsive designs, significantly boosting user engagement across diverse platforms and contributing to the front-end development process with innovative solutions.",
-    icon: React.createElement(CgWorkAlt),
-    date: "2021-2022",
+      "Empower aspiring developers by leading full-stack web development courses with a focus on the MERN stack, enhancing both the curriculum and student success rates in a real-world coding environment.",
+    icon: React.createElement(FaReact),
+    date: "2023 - present",
   },
   {
     title: "Associate Technical Project Manager",
@@ -52,14 +52,15 @@ export const experiencesData = [
     date: "2022 - 2023",
   },
   {
-    title: "Instructional Specialist",
-    company: "edX",
+    title: "Front End Engineer Intern",
+    company: "GameStar+",
     location: "Los Angeles, CA",
     description:
-      "Empower aspiring developers by leading full-stack web development courses with a focus on the MERN stack, enhancing both the curriculum and student success rates in a real-world coding environment.",
-    icon: React.createElement(FaReact),
-    date: "2023 - present",
+      "Collaborated in a dynamic tech team to integrate APIs and implement responsive designs, significantly boosting user engagement across diverse platforms and contributing to the front-end development process with innovative solutions.",
+    icon: React.createElement(CgWorkAlt),
+    date: "2021-2022",
   },
+ 
 ] as const;
 
 export const projectsData = [
