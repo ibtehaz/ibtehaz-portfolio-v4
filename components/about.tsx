@@ -18,7 +18,7 @@ export default function About() {
       id="about"
     >
       <SectionHeading>About me</SectionHeading>
-      <p className='mb-6'>Hi, I'm Ibtehaz (pronounced eeb-tay-haaz). I've always been <span className='underline underline-offset-4'>fascinated by the endless possibilities of programming</span> and the satisfaction of solving complex problems. At the age of 13, I found myself immersed in the world of online communities. I started building forums and community boards for WWE fans, combining my love for wrestling with an early interest in web development. This passion for technology led me to pursue a <strong>Bachelor’s Degree in Computer Science</strong>, which further solidified my foundation in the field.
+      <p className='mb-6'>Hi, I'm Ibtehaz <em>(pronounced eeb-tay-haaz)</em>. I've always been <span className='underline underline-offset-4'>fascinated by the endless possibilities of programming</span> and the satisfaction of solving complex problems. At the age of 13, I found myself immersed in the world of online communities. I started building forums and community boards for WWE fans, combining my love for wrestling with an early interest in web development. This passion for technology led me to pursue a <strong>Bachelor’s Degree in Computer Science</strong>, which further solidified my foundation in the field.
     Fast forward to today, and I'm still driven by the same enthusiasm for technology, now with a focus on full-stack development and machine learning. My skills have grown, but my curiosity and love for creating engaging online experiences remain at the core of what I do.
     </p>
     <p>
