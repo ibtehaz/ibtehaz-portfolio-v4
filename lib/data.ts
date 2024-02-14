@@ -43,13 +43,13 @@ export const experiencesData = [
     date: "2023 - present",
   },
   {
-    title: "Associate Technical Project Manager",
+    title: "Technical Project Manager",
     company: "Internet Brands",
     location: "Los Angeles, CA",
     description:
       "Led cross-functional teams through major tech initiatives, including a significant website upgrade using React and the integration of agile project management tools.",
     icon: React.createElement(AiOutlineFundProjectionScreen),
-    date: "2022 - 2023",
+    date: "2021 - 2023",
   },
   {
     title: "Front End Engineer Intern",
@@ -58,7 +58,7 @@ export const experiencesData = [
     description:
       "Collaborated in a dynamic tech team to integrate APIs and implement responsive designs, significantly boosting user engagement across diverse platforms and contributing to the front-end development process with innovative solutions.",
     icon: React.createElement(CgWorkAlt),
-    date: "2021-2022",
+    date: "2021-2021",
   },
  
 ] as const;
@@ -108,5 +108,6 @@ export const skillsData = [
   "Linux",
   "AWS",
   "Kubernetes",
+  "Jenkins",
   "Docker",
 ] as const;
